@@ -2,6 +2,8 @@
 bin
 obj
 
+appsettings.json
+
 # Rider
 .idea
 *.userprefs
